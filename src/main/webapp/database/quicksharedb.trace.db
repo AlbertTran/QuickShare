@@ -1,9 +1,0 @@
-11-07 02:51:37 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLException: Table "IMAGESTEST" not found; SQL statement:
-select * from imagestest [42102-175]
-11-07 02:52:03 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLException: Table "IMAGESTEST" not found; SQL statement:
-select * from imagestest [42102-175]
-11-07 02:56:09 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLException: Table "IMAGEREZR" not found; SQL statement:
-select * from imagerezr [42102-175]
