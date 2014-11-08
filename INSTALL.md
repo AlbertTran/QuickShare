@@ -1,7 +1,7 @@
 INSTALLATION
 ==========
 
-**Pré-requis **
+**Pré-requis**
 
 - Serveur Apache Tomcat 7.x
 - Un IDE (Eclipse ou IntelliJ, le projet a été développé sur IntelliJ)
